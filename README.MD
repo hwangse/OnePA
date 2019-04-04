@@ -1,1 +1,1 @@
-This repo will contain the content created for our CZ2006 Software Engineering Application.
+This is recreational activities booking app for community centers.
